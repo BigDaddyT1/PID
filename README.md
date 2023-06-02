@@ -49,6 +49,7 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 - https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
 ### MY favorite part 
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/8b881305-6d87-4b79-b47c-43a6947b946b)
+<img src="https://github.com/BigDaddyT1/PID/assets/113116205/8b881305-6d87-4b79-b47c-43a6947b946b" alt="part" width="500">
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/0ef13085-79a9-494e-a697-ab542067b897)
 
 - This I would say was the funnest piece to design on cad it was a very essential but what made it fun was how intricate this piece is. It is the most essential piece in the project and the to hold it in were a great and very playful idea. 
