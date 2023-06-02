@@ -29,10 +29,11 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 
 ## This is a link to all of the parts I designed and the full assembly that I created in Onshape 
 - https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
-
+### MY favorite part 
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/8b881305-6d87-4b79-b47c-43a6947b946b)
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/0ef13085-79a9-494e-a697-ab542067b897)
-This I would say was the funnest peice to design on cad it was a very essential but what made it fun was how intricate this peice is. It is the most essential peice in the project and the to hold it in were a great and very plaful idea. 
 
+- This I would say was the funnest peice to design on cad it was a very essential but what made it fun was how intricate this peice is. It is the most essential peice in the project and the to hold it in were a great and very plaful idea. 
+# How Did I get my PID libraries 
 In order to create my PID code I needed PID libraries and thanks to copper2880z he made my life so much easier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his libraries: Here is the link to his libraries https://github.com/Copper280z/CircuitPython_simple-pid
 
