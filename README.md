@@ -1,7 +1,3 @@
-Your planning section needs:
-1) a list of materials.
-2) A goal for the project
-3) A list of criteria and constraints (goals and limitations, like time, money, knowledge, etc)
 # PID 
 ## What is the purpose of my project
 -  To design an instrument used by me to regulate the speed of a balance beam trying to get a ball to level out as quickly as possible, and by using pid code and other process variables in industrial control systems to help make the PID work as smoothly as possible.
@@ -14,10 +10,10 @@ Your planning section needs:
 
 # Planning Section Materials 
 1) a list of materials:
-when doing this project the materials needed are a 9 volt batery pack, male to female wires, male to male wires, cut out peices of acrilic, 3D printed peices made on onshape, A prototyping sheid and a pingpong ball (pink ovcourse) 
+when doing this project the materials needed are a 9 volt battery pack, male to female wires, male to male wires, cut out pieces of acrylic, 3D printed pieces made on onshape, A prototyping shield and a ping pong ball (pink of course) 
 
 2) goal for the project:
-the goal for my project is to get a balance and a ping png ball on the ballance to reach the desired setpoint as fast as possible
+the goal for my project is to get a balance and a ping pong ball on the balance to reach the desired setpoint as fast as possible
 
 3) A list of criteria and constraints
 - The criteria for this project is to design,and Program a device that uses PID feedback control.
@@ -31,7 +27,7 @@ Ensure everything is securely mounted.
 ## The second week though tell the documentation week
 - The second week through tell the documentation was made is primarily focused on designing my model in Cad and then taking it and putting it in the real world and in order to do that i had to create sketches and with those sketches I made my model in cad. and after creating the model in cad getting everything 3D printed and putting everything together. Having a light to indicate that the balance is on and having a switch for power. And lastly designing a counterweight system underneath the ultrasonic sensor to make sure that one side was heavier than the other. 
 ## Reflection/ Documentation week 
-- The documentation would be done last because working solo I have to make sure my  actual 3d project is done and works as good as possible and documentation is although helpful I put to the end. 
+- The documentation would be done last because working solo I have to make sure my  actual 3d project is done and works as good as possible and documentation is although helpful I put it to the end. 
 
 # My balance beam in action !
 https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e45738ebe41a
@@ -55,7 +51,7 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 ### MY favorite part 
 <img src="https://github.com/BigDaddyT1/PID/assets/113116205/73efd967-d86f-4bc7-b783-31637f84baa1" alt="part" width="500">
 
-- This I would say was the funnest piece to design on cad it was a very essential but what made it fun was how intricate this piece is. It is the most essential piece in the project and the to hold it in were a great and very playful idea. 
+- This I would say was the funnest piece to design on cad it was a very essential but what made it fun was how intricate this piece is. It is the most essential piece in the project and the to hold it in was a great and very playful idea. 
 # How Did I get my PID libraries 
 In order to create my PID code I needed PID libraries and thanks to copper2880z he made my life so much easier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his libraries: Here is the link to his libraries https://github.com/Copper280z/CircuitPython_simple-pid
 #  This is my favorite piece of code I created during the coding portion of my project
@@ -77,9 +73,10 @@ In order to create my PID code I needed PID libraries and thanks to copper2880z 
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/92f31f71-5a8a-423a-8f7d-a5d2894724fa)
 
 # Biggest Problem 
-- My biggest problem was when importing the PID the 180 servo would keep swiching sides therefor messing up my code and almost destoying it to the point where I would have to start over. It could hyave ended very baddly.
+- My biggest problem was when importing the PID the 180 servo would keep switching sides therefore messing up my code and almost destroying it to the point where I would have to start over. It could have ended very badly.
 ### Solution
-- My solution was to design a peice to clamp it down and ensure that it would stay in one postion and I could fix my code. It took some time but in the end it really worked out. 
+- My solution was to design a piece to clamp it down and ensure that it would stay in one position and I could fix my code. It took some time but in the end it really worked out. 
 
 # Reflection
-Although there was a lot of troubleshooting done during this project this pid project was the best fun i've had since i've been here. I've learned to work by myself for a change and that I can do anything I put my mind to. I had some excellent guidance by David Deirof and Karl Helmstetter. They both have helped me overcome so much during this project I did not know was possible. The hardest part of this project would be that I felt as though I was taking so many steps forward but ultimately realizing that I was way further behind than  I imagined it helped me to push myself to the limit and I got it done. The easiest part I would say was the designing portion of the project. It is very fun and very cool designing something and seeing it come to life was by far the best part of the project. One key piece of advice I would give is to always make sure you have a counterweight system for a balance lord knows i needed to figure that out way quicker than I did. Overall I would definitely recommend this to future students, definitely a 10/10 project.
+Although there was a lot of troubleshooting done during this project this pid project was the best fun I've had since I've been here. I've learned to work by myself for a change and that I can do anything I put my mind to. I had some excellent guidance by David Deirof and Karl Helmstetter. They both have helped me overcome so much during this project I did not know was possible. The hardest part of this project would be that I felt as though I was taking so many steps forward but ultimately realizing that I was way further behind than  I imagined it helped me to push myself to the limit and I got it done. The easiest part I would say was the designing portion of the project. It is very fun and very cool designing something and seeing it come to life was by far the best part of the project. One key piece of advice I would give is to always make sure you have a counterweight system for a balance lord knows i needed to figure that out way quicker than I did. Overall I would definitely recommend this to future students, definitely a 10/10 project.
+
