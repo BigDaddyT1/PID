@@ -2,16 +2,6 @@ Your planning section needs:
 1) a list of materials.
 2) A goal for the project
 3) A list of criteria and constraints (goals and limitations, like time, money, knowledge, etc)
-
-Code and construction section:
-1) Wiring diagram?  should be followed by code subsection
-2) CAD should come before construction
-3) Images should have captions, tell your reader why you're looking at this pic!
-
-Reflection?
-any Engineering decisions?
-
-
 # PID 
 ## What is the purpose of my project
 -  To design an instrument used by me to regulate the speed of a balance beam trying to get a ball to level out as quickly as possible, and by using pid code and other process variables in industrial control systems to help make the PID work as smoothly as possible.
@@ -21,6 +11,21 @@ any Engineering decisions?
 
 # The planning stage 
 :In order to complete this task as quickly and efficiently as possible I needed to plan out a time frame.
+
+# Planning Section Materials 
+1) a list of materials:
+when doing this project the materials needed are a 9 volt batery pack, male to female wires, male to male wires, cut out peices of acrilic, 3D printed peices made on onshape, A prototyping sheid and a pingpong ball (pink ovcourse) 
+
+2) goal for the project:
+the goal for my project is to get a balance and a ping png ball on the ballance to reach the desired setpoint as fast as possible
+
+3) A list of criteria and constraints
+- The criteria for this project is to design,and Program a device that uses PID feedback control.
+- The constraints for the project are as listed Use only an Arduino and other standard components in the Sigma Lab
+Use 4 or 6 AA batteries and a battery pack for power
+Include a power switch and an LED power indicator
+Ensure everything is securely mounted.
+
 ## The First Week 
 - The first week was the core for the planning stage researching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
 ## The second week though tell the documentation week
@@ -71,6 +76,10 @@ In order to create my PID code I needed PID libraries and thanks to copper2880z 
 # This is a wiring diagram I made
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/92f31f71-5a8a-423a-8f7d-a5d2894724fa)
 
+# Biggest Problem 
+- My biggest problem was when importing the PID the 180 servo would keep swiching sides therefor messing up my code and almost destoying it to the point where I would have to start over. It could hyave ended very baddly.
+### Solution
+- My solution was to design a peice to clamp it down and ensure that it would stay in one postion and I could fix my code. It took some time but in the end it really worked out. 
 
-## Reflection
+# Reflection
 Although there was a lot of troubleshooting done during this project this pid project was the best fun i've had since i've been here. I've learned to work by myself for a change and that I can do anything I put my mind to. I had some excellent guidance by David Deirof and Karl Helmstetter. They both have helped me overcome so much during this project I did not know was possible. The hardest part of this project would be that I felt as though I was taking so many steps forward but ultimately realizing that I was way further behind than  I imagined it helped me to push myself to the limit and I got it done. The easiest part I would say was the designing portion of the project. It is very fun and very cool designing something and seeing it come to life was by far the best part of the project. One key piece of advice I would give is to always make sure you have a counterweight system for a balance lord knows i needed to figure that out way quicker than I did. Overall I would definitely recommend this to future students, definitely a 10/10 project.
