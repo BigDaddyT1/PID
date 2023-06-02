@@ -6,11 +6,11 @@
 - At the beginning of this project David Deirof put me to the task of researching the best method of PID to create. Researching had been very difficult until I realized that in order to create a solid simple pid within the deadline set I needed to create a balance and it was the best decision I could have possibly made. Working by myself has been the hardest challenge of all because i've never worked alone on any project before. So looking at David Dierofs project I decided to create a smaller scale simple and sleek design and overall it worked. 
 
 # The planning stage 
-In order to complete this task as quickly and efficiently as possible I needed to plan out a time frame.
+:In order to complete this task as quickly and efficiently as possible I needed to plan out a time frame.
 ## The First Week 
 - The first week was the core for the planning stage researching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
 ## The second week though tell the documentation week
-The second week through tell the documentation was made is primaraly focused on desighning my model in Cad and then takingit and putting it in the real world and in order to do that i had to create sketches and with those sketches I made my model in cad. and after creating the model in cad getting everything 3D printed and putting everything together. Having a light to indicate that the balance is on and having a swich for power. And lastly designing a counterweight system underneith the ultrasonic sensor to make sure that one side was heavier than the other. 
+- The second week through tell the documentation was made is primaraly focused on desighning my model in Cad and then takingit and putting it in the real world and in order to do that i had to create sketches and with those sketches I made my model in cad. and after creating the model in cad getting everything 3D printed and putting everything together. Having a light to indicate that the balance is on and having a swich for power. And lastly designing a counterweight system underneith the ultrasonic sensor to make sure that one side was heavier than the other. 
 ## Reflection/ Documentation week 
 - The documentation would be done last because working solo I have to make sure my  actuall 3d project is done and works as good as posible and documentation is althogh helpful I put to the end. 
 
