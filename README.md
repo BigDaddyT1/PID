@@ -9,8 +9,12 @@
 In order to complete this task as quickly and efficiently as possible I needed to plan out a time frame.
 ## The First Week 
 - The first week was the core for the planning stage researching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
+## The second week though tell the documentation week
+The second week through tell the documentation was made is primaraly focused on desighning my model in Cad and then takingit and putting it in the real world and in order to do that i had to create sketches and with those sketches I made my model in cad. and after creating the model in cad getting everything 3D printed and putting everything together. Having a light to indicate that the balance is on and having a swich for power. And lastly designing a counterweight system underneith the ultrasonic sensor to make sure that one side was heavier than the other. 
+## Reflection/ Documentation week 
+- The documentation would be done last because working solo I have to make sure my  actuall 3d project is done and works as good as posible and documentation is althogh helpful I put to the end. 
 
-## This is video proof of my balance beam in action 
+# My balance beam in action !
 https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e45738ebe41a
 - The goal of the balance is to get it to reach the midpoint as fast as possible using pid and ive gotten it to level out within a 20 second time frame VERY COOL!
 ## These are images of my PID diagram 
