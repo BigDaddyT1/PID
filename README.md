@@ -1,4 +1,5 @@
-# PID 
+# PID PROJECT
+
 ## What is the purpose of my project
 -  To design an instrument used by me to regulate the speed of a balance beam trying to get a ball to level out as quickly as possible, and by using pid code and other process variables in industrial control systems to help make the PID work as smoothly as possible.
 
@@ -24,14 +25,17 @@ Ensure everything is securely mounted.
 
 ## The First Week 
 - The first week was the core for the planning stage researching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
+
 ## The second week though tell the documentation week
 - The second week through tell the documentation was made is primarily focused on designing my model in Cad and then taking it and putting it in the real world and in order to do that i had to create sketches and with those sketches I made my model in cad. and after creating the model in cad getting everything 3D printed and putting everything together. Having a light to indicate that the balance is on and having a switch for power. And lastly designing a counterweight system underneath the ultrasonic sensor to make sure that one side was heavier than the other. 
+
 ## Reflection/ Documentation week 
 - The documentation would be done last because working solo I have to make sure my  actual 3d project is done and works as good as possible and documentation is although helpful I put it to the end. 
 
 # My balance beam in action !
 https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e45738ebe41a
 - The goal of the balance is to get it to reach the midpoint as fast as possible using pid and ive gotten it to level out within a 20 second time frame VERY COOL!
+
 ## These are images of my PID diagram 
 
 ![WIN_20230602_09_37_24_Pro](https://github.com/BigDaddyT1/PID/assets/113116205/7fc2ffca-cf62-4324-8834-39e3719b3004)
@@ -48,13 +52,17 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 
 ## This is a link to all of the parts I designed and the full assembly that I created in Onshape 
 - https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
+
 ### MY favorite part 
 <img src="https://github.com/BigDaddyT1/PID/assets/113116205/73efd967-d86f-4bc7-b783-31637f84baa1" alt="part" width="500">
 <img src="https://github.com/BigDaddyT1/PID/assets/113116205/d935f5a7-4c21-4e78-9a82-99bf900303c8" alt="part" width="500">
 - This I would say was the funnest piece to design on cad it was a very essential but what made it fun was how intricate this piece is. It is the most essential piece in the project and the to hold it in was a great and very playful idea. 
+
 # How Did I get my PID libraries 
 In order to create my PID code I needed PID libraries and thanks to copper2880z he made my life so much easier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his libraries: Here is the link to his libraries https://github.com/Copper280z/CircuitPython_simple-pid
+
 #  This is my favorite piece of code I created during the coding portion of my project
+
 
         if dist < 5 or dist > 35:
             output = 175
@@ -65,6 +73,7 @@ In order to create my PID code I needed PID libraries and thanks to copper2880z 
         print(p, i, d)
         my_servo.angle = (180-output)
         time.sleep(0.1)
+        
 - Because during this portion is where I actually discovered what PID actually stands for (Proportional, Interval, and Derivative) and in my code at the beginning of the process it was showing pid output and Interols and changing that to this has taken out all the unnecessary useless bits of code and changed that to give me (Proportional, Interval, and Derivative) outputs which helped me so that I can tune the ballance to reach the center point as fast as possible.
 # Full code here 
 : https://github.com/BigDaddyT1/PID/blob/main/PID.py 
