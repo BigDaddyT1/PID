@@ -10,7 +10,7 @@ In order to complete this task as quickly and efficiently as possible I needed t
 ## The First Week 
 - The first week was the core for the planning stage researching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
 
-# This is video proof of my balance beam in action 
+## This is video proof of my balance beam in action 
 https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e45738ebe41a
 - The goal of the balance is to get it to reach the midpoint as fast as possible using pid and ive gotten it to level out within a 20 second time frame VERY COOL!
 ## These are images of my PID diagram 
@@ -27,5 +27,7 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 ![WIN_20230602_09_36_32_Pro](https://github.com/BigDaddyT1/PID/assets/113116205/1fff1fe8-5f3a-4bf1-af4e-c8416dfaf862)
 - In this image it shows the wiring I used connected to the arduino in addition to the breadboard I put on top of that. Beside that is the battery holder I used 9 volts to power my arduino is essential in the project.
 
+## This is a link to all of the parts I desighned and the full assembly that I created in Onshape 
+- https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
 
-
+In order to create my PID code I needed PID librarys and thanks to copper2880z he made my life so much easzier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his librarys: Here is the link to his librarys https://github.com/Copper280z/CircuitPython_simple-pid
