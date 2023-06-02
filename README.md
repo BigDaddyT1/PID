@@ -1,3 +1,17 @@
+Your planning section needs:
+1) a list of materials.
+2) A goal for the project
+3) A list of criteria and constraints (goals and limitations, like time, money, knowledge, etc)
+
+Code and construction section:
+1) Wiring diagram?  should be followed by code subsection
+2) CAD should come before construction
+3) Images should have captions, tell your reader why you're looking at this pic!
+
+Reflection?
+any Engineering decisions?
+
+
 # PID 
 ## What is the purpose of my project
 -  To design an instrument used by me to regulate the speed of a balance beam trying to get a ball to level out as quickly as possible, and by using pid code and other process variables in industrial control systems to help make the PID work as smoothly as possible.
@@ -57,6 +71,7 @@ In order to create my PID code I needed PID libraries and thanks to copper2880z 
 
 # This is a wiring diagram I made
 ![image](https://github.com/BigDaddyT1/PID/assets/113116205/92f31f71-5a8a-423a-8f7d-a5d2894724fa)
+
 
 ## Reflection
 Although there was a lot of troubleshooting done during this project this pid project was the best fun i've had since i've been here. I've learned to work by myself for a change and that I can do anything I put my mind to. I had some excellent guidance by David Deirof and Karl Helmstetter. They both have helped me overcome so much during this project I did not know was possible. The hardest part of this project would be that I felt as though I was taking so many steps forward but ultimately realizing that I was way further behind than  I imagined it helped me to push myself to the limit and I got it done. The easiest part I would say was the designing portion of the project. It is very fun and very cool designing something and seeing it come to life was by far the best part of the project. One key piece of advice I would give is to always make sure you have a counterweight system for a balance lord knows i needed to figure that out way quicker than I did. Overall I would definitely recommend this to future students, definitely a 10/10 project.
