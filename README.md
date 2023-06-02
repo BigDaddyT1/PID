@@ -27,7 +27,11 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 ![WIN_20230602_09_36_32_Pro](https://github.com/BigDaddyT1/PID/assets/113116205/1fff1fe8-5f3a-4bf1-af4e-c8416dfaf862)
 - In this image it shows the wiring I used connected to the arduino in addition to the breadboard I put on top of that. Beside that is the battery holder I used 9 volts to power my arduino is essential in the project.
 
-## This is a link to all of the parts I desighned and the full assembly that I created in Onshape 
+## This is a link to all of the parts I designed and the full assembly that I created in Onshape 
 - https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
 
-In order to create my PID code I needed PID librarys and thanks to copper2880z he made my life so much easzier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his librarys: Here is the link to his librarys https://github.com/Copper280z/CircuitPython_simple-pid
+![image](https://github.com/BigDaddyT1/PID/assets/113116205/8b881305-6d87-4b79-b47c-43a6947b946b)
+
+
+In order to create my PID code I needed PID libraries and thanks to copper2880z he made my life so much easier because I had no idea how to create a pid library he was a very big help I could not have done what I created without his libraries: Here is the link to his libraries https://github.com/Copper280z/CircuitPython_simple-pid
+
