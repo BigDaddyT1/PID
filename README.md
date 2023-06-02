@@ -9,3 +9,7 @@
 In order to complete this task quickly and efficiently as possible I needed to plan out a time frame.
 ## The First Week 
 - The first week was the core for the planning stage reaserching videos (https://www.youtube.com/watch?v=JFTJ2SS4xyA ,https://www.youtube.com/watch?v=YOPTksabdbM, https://www.youtube.com/watch?v=-h1OtBgMqcE) and looking at David Deirof's project to come to a good understanding what PID actually is and how it works on a balance.
+
+
+https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e45738ebe41a
+
