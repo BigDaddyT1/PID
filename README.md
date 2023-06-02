@@ -51,6 +51,6 @@ In order to create my PID code I needed PID libraries and thanks to copper2880z 
         print(p, i, d)
         my_servo.angle = (180-output)
         time.sleep(0.1)
-- Because 
+- Because during this portion is where I actually descoverd what PID actually stands for (Proportional, Interval, and Derivitive) and in my code at the begining of the process it was showing pid output and Interols and changing that to this has taken out all the unececary usless bits of code and changed that to give me (Proportional, Interval, and Derivitive) outputs wich helped me so that I can tune the ballance to reach the center point as fast as possible.
 # Full code here 
-- https://github.com/BigDaddyT1/PID/blob/main/PID.py 
+: https://github.com/BigDaddyT1/PID/blob/main/PID.py 
