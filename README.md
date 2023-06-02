@@ -48,8 +48,7 @@ https://github.com/BigDaddyT1/PID/assets/113116205/a228fb77-b409-4b1f-a717-e4573
 ## This is a link to all of the parts I designed and the full assembly that I created in Onshape 
 - https://cvilleschools.onshape.com/documents/35ae1394c693d43da04649b9/w/ab67fec34452d17ff0ef8f23/e/32506171eeb7c41383a34b11
 ### MY favorite part 
-<img src="![image](https://github.com/BigDaddyT1/PID/assets/113116205/73efd967-d86f-4bc7-b783-31637f84baa1)
-" alt="part" width="500">
+<img src="https://github.com/BigDaddyT1/PID/assets/113116205/73efd967-d86f-4bc7-b783-31637f84baa1" alt="part" width="500">
 
 - This I would say was the funnest piece to design on cad it was a very essential but what made it fun was how intricate this piece is. It is the most essential piece in the project and the to hold it in were a great and very playful idea. 
 # How Did I get my PID libraries 
